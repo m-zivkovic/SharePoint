@@ -1,8 +1,8 @@
 In Entra ID Create 2 app registrations.
 
-App no. 1 to use to grant other apps selected permisions.
+App no. 1 - use this App to grant other apps selected permisions.
 
-App no. 2 to use in code and that will have granted permissions.
+App no. 2 - to use in code and that will have granted permissions.
 
 For App no. 1 add Graph API permission Type:Application, Permission: Sites.FullControl.All
 
